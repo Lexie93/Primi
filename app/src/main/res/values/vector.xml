@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scelta">
+        <item>Determina se \"N\" è primo</item>
+        <item>Trova il primo numero primo maggiore di \"N\"</item>
+        <item>Trova il primo numero primo precedente ad \"N\"</item>
+        <item>Calcola la funzione di Eulero di \"N\"</item>
+        <item>Scomponi \"N\" in numeri primi</item>
+        <item>Trova tutti i numeri primi tra \"N\" ed \"N2\"</item>
+        <item>Trova i \"B\" numeri primi successivi ad \"N\" </item>
+    </string-array>
+
+    <string-array name="choose">
+        <item>Check if \"N\" is prime</item>
+        <item>Find the first prime number greater than \"N\"</item>
+        <item>Find the first previous prime number of \"N\"</item>
+        <item>Calculate Eulero\'s function of \"N\"</item>
+        <item>Factorize \"N\" into prime numbers</item>
+        <item>Find all prime numbers between \"N\" and \"N2\"</item>
+        <item>Find the \"B\" amount of prime numbers greater than \"N\" </item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Numeri primi</string>
+    <string name="enter.N">Inserisci il valore</string>
+    <string name="enter.N2">Inserisci il valore</string>
+    <string name="button.go">Procedi</string>
+    <string name="answer0.false">N non è un numero primo</string>
+    <string name="answer0.true">N è un numero primo</string>
+    <string name="next_prime">Il primo numero primo maggiore di \"N\" è </string>
+    <string name="previous_prime">Il primo numero primo precedente ad \"N\" è</string>
+    <string name="no_previous">\"N\" non ha numeri primi precedenti</string>
+    <string name="b0">Il valore di \"B\" deve essere > 0</string>
+    <string name="b_next">Elenco dei primi \"B\" numeri primi maggiori di \"N\": \n \n</string>
+    <string name="no_val">Inserire i valori richiesti</string>
+    <string name="N1_N2">\"N2\" deve essere maggiore di \"N\"</string>
+    <string name="between">Elenco dei numeri primi compresi tra \"N\" e \"N2\"</string>
+    <string name="no_between">Non ci sono numeri primi compresi tra \"N\" e \"N2\"</string>
+    <string name="already">\"N\" è già un numero primo</string>
+    <string name="eulero">Valore della funzione di Eulero:</string>
+</resources>

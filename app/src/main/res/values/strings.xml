@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Prime numbers</string>
+    <string name="enter.N">Write the value</string>
+    <string name="enter.N2">Write the value</string>
+    <string name="button.go">Go</string>
+    <string name="answer0.false">N is not a prime number</string>
+    <string name="answer0.true">N is a prime number</string>
+    <string name="next_prime">The first prime number greater than \"N\" is</string>
+    <string name="previous_prime">The previous prime number of \"N\" is</string>
+    <string name="no_previous">\"N\" does not have previous prime numbers</string>
+    <string name="b0">\"B\" value must be > 0</string>
+    <string name="b_next">List of first \"B\" prime numbers greater than \"N\": \n \n</string>
+    <string name="no_val">Missing values</string>
+    <string name="N1_N2">\"N2\" must be greater than \"N\"</string>
+    <string name="between">List of prime numbers between \"N\" and \"N2\"</string>
+    <string name="no_between">There are no prime numbers between \"N\" and \"N2\"</string>
+    <string name="already">\"N\" is yet a prime number</string>
+    <string name="eulero">Eulero\'s function value:</string>
+</resources>
